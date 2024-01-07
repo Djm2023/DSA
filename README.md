@@ -16,3 +16,14 @@
 ✨ <b>Inheritance</b></br>
 ✨ <b>Dynamic Binding</b></br>
 ✨ <b>Message Passing</b></br>
+
+<hr/>
+
+👉<b> What is the class in Object oriented programming? </b> ?
+
+💥 It is the user-defined data type which holds its own data members and member functions which can be accessed and used by creating an instance of that class.
+
+
+
+<hr/>
+
