@@ -47,7 +47,6 @@
 
 <hr/>
 <br/>
-<br/>
 🏫 SYNTAX FOR WRITING CLASS :
 
 CODE:
