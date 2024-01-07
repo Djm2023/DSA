@@ -4,6 +4,9 @@
 
 💥 The main objective of Object oriented programming is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
 
+<hr/>
+<hr/>
+
 ✍ The building blocks for Object oriented programming are :-
 
 ✨ <b>class</b></br>
@@ -14,5 +17,3 @@
 ✨ <b>Inheritance</b></br>
 ✨ <b>Dynamic Binding</b></br>
 ✨ <b>Message Passing</b></br>
-
-
