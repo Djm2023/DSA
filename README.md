@@ -46,4 +46,28 @@
 
 
 <hr/>
+<br/>
+<br/>
+🏫 SYNTAX FOR WRITING CLASS :
+
+CODE:
+
+class className {
+
+    Access specifier :           // can be public,private,protected.
+
+    Data members ;               // variables to be used.
+
+    member function(){           //Methods to access data members.
+        1. .....
+        2. ......
+    }
+};  //Semicolon is used to terminate the className
+
+ //"class" is the keyword;
+
+<hr/>
+
+
+
 
