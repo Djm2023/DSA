@@ -62,9 +62,13 @@ class className {
         1. .....
         2. ......
     }
-};  //Semicolon is used to terminate the className
+}; 
 
- //"class" is the keyword;
+📓 Semicolon is used to terminate the className.
+<br/>
+📓 "class" is the keyword.
+<br/>
+📓 By default the access specifier is private.
 
 <hr/>
 
