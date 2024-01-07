@@ -6,13 +6,13 @@
 
 ✍ The building blocks for Object oriented programming are :-
 
-✨ <b>class</b>
-✨ <b>Object</b>
-✨ <b>Encapsulation</b>
-✨ <b>Abstraction</b>
-✨ <b>Polymorphism</b>
-✨ <b>Inheritance</b>
-✨ <b>Dynamic Binding</b>
-✨ <b>Message Passing</b>
+✨ <b>class</b></br>
+✨ <b>Object</b></br>
+✨ <b>Encapsulation</b></br>
+✨ <b>Abstraction</b></br>
+✨ <b>Polymorphism</b></br>
+✨ <b>Inheritance</b></br>
+✨ <b>Dynamic Binding</b></br>
+✨ <b>Message Passing</b></br>
 
 
