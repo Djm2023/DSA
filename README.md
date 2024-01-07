@@ -27,3 +27,11 @@
 
 <hr/>
 
+👉<b> What is the data members and member functions? </b> ?
+
+💥 DATA MEMBERS :- Data members are the data variables used in the class.
+<br/>
+💥 MEMBER FUNCTION :-Member function are the functions used in the class to modify data variables.
+
+<hr/>
+
