@@ -19,7 +19,7 @@
 
 <hr/>
 
-👉<b> What is the class in Object oriented programming? </b> ?
+👉<b>1.  What is the class in Object oriented programming? </b> ?
 
 💥 It is the user-defined data type which holds its own data members and member functions which can be accessed and used by creating an instance of that class.
 
@@ -27,11 +27,23 @@
 
 <hr/>
 
-👉<b> What is the data members and member functions? </b> ?
+👉<b> What is the data members and member functions? </b> 
 
 💥 DATA MEMBERS :- Data members are the data variables used in the class.
 <br/>
 💥 MEMBER FUNCTION :-Member function are the functions used in the class to modify data variables.
+
+<hr/>
+
+👉<b>2. What are Objects? </b> 
+
+💥 An Object is the instance of the class.
+
+📝<b>IMPORTANT NOTE</b></br>
+
+    When class is created no memory is allocated but when we create object then memory is allocated or in otherwords memory is allocated only when it is instantiated.
+<br/>
+
 
 <hr/>
 
