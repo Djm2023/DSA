@@ -1,4 +1,4 @@
-<h1> 🚀🚀 LEARN ABOUT BASICS OF OBJECT ORIENTED PROGRAMMING 🚀🚀 </h1>
+<h1> 🚀 LEARN ABOUT BASICS OF OBJECT ORIENTED PROGRAMMING 🚀 </h1>
 
 👉 What is the objective of Object oriented programming in C++ ?
 
