@@ -71,6 +71,17 @@ class className {
 
 <hr/>
 
+📝 <b> MORE ABOUT MEMBER FUNCTIONS: </b>
 
+✨There are two ways by which we can define member function :-----
 
+1. Inside class defination.       // refer member.cpp CODE
+2. Outside class defination
 
+<hr/>
+
+👉<b> How we can use member function outside class defination ?</b>
+
+💥 To define a member function outside class defination we have to use the 'Scope Resolution Operator' i.e "::" along with the class name and function name.
+
+<hr/>
