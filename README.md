@@ -89,3 +89,6 @@ class className {
 👉<b> What are Constructors? </b> 
 
 💥 Constructors are the special class members which are being called by the compiler every time objects are instantiated.
+
+📒 Constructor have same name as the name of the class.
+📒 Constructor can be defined inside or outside class defination.
