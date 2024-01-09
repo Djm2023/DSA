@@ -92,3 +92,5 @@ class className {
 
 📒 Constructor have same name as the name of the class.
 📒 Constructor can be defined inside or outside class defination.
+
+</hr>
