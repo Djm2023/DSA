@@ -85,3 +85,7 @@ class className {
 💥 To define a member function outside class defination we have to use the 'Scope Resolution Operator' i.e "::" along with the class name and function name.
 
 <hr/>
+
+👉<b> What are Constructors? </b> 
+
+💥 Constructors are the special class members which are being called by the compiler every time objects are instantiated.
