@@ -90,16 +90,16 @@ class className {
 
 💥 Constructors are the special class members which are being called by the compiler every time objects are instantiated.
 
-📒 Constructor have same name as the name of the class.
-📒 Constructor can be defined inside or outside class defination.
+📒 Constructor have same name as the name of the class.<br/>
+📒 Constructor can be defined inside or outside class defination.<br/>
 
 </hr>
 
 👉<b> What are the types of Constructors? </b> 
 
-💥 1. The Default Constructor.
-   2. The Parameterized Constructor.
-   3. The Copy Constructor.
+💥 1. The Default Constructor.<br/>
+   2. The Parameterized Constructor.<br/>
+   3. The Copy Constructor.<br/>
 
    <hr/>
 
