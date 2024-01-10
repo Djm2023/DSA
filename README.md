@@ -93,7 +93,7 @@ class className {
 📒 Constructor have same name as the name of the class.<br/>
 📒 Constructor can be defined inside or outside class defination.<br/>
 
-</hr>
+<hr/>
 
 👉<b> What are the types of Constructors? </b> 
 
