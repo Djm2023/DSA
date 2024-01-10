@@ -101,6 +101,12 @@ class className {
    2. The Parameterized Constructor.<br/>
    3. The Copy Constructor.<br/>
 
-   <hr/>
+
+📗 The Copy Constructor :- The copy constructor creates a new object which is the exact copy of the existing object.
+
+📝The compiler provides the default copy constructor to all the classes.
 
    <!-- The type of constructor CODE is written in constructor.cpp -->
+
+
+   <hr/>
