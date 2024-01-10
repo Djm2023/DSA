@@ -94,3 +94,13 @@ class className {
 📒 Constructor can be defined inside or outside class defination.
 
 </hr>
+
+👉<b> What are the types of Constructors? </b> 
+
+💥 1. The Default Constructor.
+   2. The Parameterized Constructor.
+   3. The Copy Constructor.
+
+   <hr/>
+
+   <!-- The type of constructor CODE is written in constructor.cpp -->
