@@ -19,15 +19,13 @@
 
 <hr/>
 
-👉<b>1.  What is the class in Object oriented programming? </b> ?
+👉<b>1. What is the class in Object oriented programming? </b> ?
 
 💥 It is the user-defined data type which holds its own data members and member functions which can be accessed and used by creating an instance of that class.
 
-
-
 <hr/>
 
-👉<b> What is the data members and member functions? </b> 
+👉<b> What is the data members and member functions? </b>
 
 💥 DATA MEMBERS :- Data members are the data variables used in the class.
 <br/>
@@ -35,15 +33,15 @@
 
 <hr/>
 
-👉<b>2. What are Objects? </b> 
+👉<b>2. What are Objects? </b>
 
 💥 An Object is the instance of the class.
 
 📝<b>IMPORTANT NOTE</b></br>
 
     When class is created no memory is allocated but when we create object then memory is allocated or in otherwords memory is allocated only when it is instantiated.
-<br/>
 
+<br/>
 
 <hr/>
 <br/>
@@ -61,7 +59,8 @@ class className {
         1. .....
         2. ......
     }
-}; 
+
+};
 
 📓 Semicolon is used to terminate the className.
 <br/>
@@ -75,7 +74,7 @@ class className {
 
 ✨There are two ways by which we can define member function :-----
 
-1. Inside class defination.       // refer member.cpp CODE
+1. Inside class defination. // refer member.cpp CODE
 2. Outside class defination
 
 <hr/>
@@ -86,7 +85,7 @@ class className {
 
 <hr/>
 
-👉<b> What are Constructors? </b> 
+👉<b> What are Constructors? </b>
 
 💥 Constructors are the special class members which are being called by the compiler every time objects are instantiated.
 
@@ -95,12 +94,9 @@ class className {
 
 <hr/>
 
-👉<b> What are the types of Constructors? </b> 
+👉<b> What are the types of Constructors? </b>
 
-💥 1. The Default Constructor.<br/>
-   2. The Parameterized Constructor.<br/>
-   3. The Copy Constructor.<br/>
-
+💥 1. The Default Constructor.<br/> 2. The Parameterized Constructor.<br/> 3. The Copy Constructor.<br/>
 
 📗 The Copy Constructor :- The copy constructor creates a new object which is the exact copy of the existing object.
 
@@ -108,5 +104,10 @@ class className {
 
    <!-- The type of constructor CODE is written in constructor.cpp -->
 
-
    <hr/>
+
+👉3.<b> What is encapsulation? </b>
+
+💥 encapsulation involves combining similar data and functions into a single unit called a class<br/>
+
+<hr/>
